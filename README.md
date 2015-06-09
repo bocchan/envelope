@@ -1,4 +1,3 @@
 # envelope
 exercise1
-change
-changechange
+http://nbviewer.ipython.org/github/bocchan/envelope/blob/master/2014exercise.py
